@@ -1,6 +1,6 @@
-## make sure you have installed anaconda
+# make sure you have installed anaconda
 
-# run in your shell
+## run in your shell
 
 ```
 conda env create -f environment.yaml
